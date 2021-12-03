@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+li{
+  font-size: 28px;
+}
+
+li:hover{
+  cursor: pointer;
+  text-decoration: line-through;
+}
